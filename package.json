@@ -1,0 +1,13 @@
+{
+  "name": "laboration-2",
+  "version": "1.0.0",
+  "description": "Reusable password generation, analysis and hashing module for Laboration 2",
+  "main": "./src/PasswordGenerator.js",
+  "scripts": {
+    "test": "node tests/run-tests.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
